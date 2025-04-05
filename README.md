@@ -15,6 +15,7 @@ Multi AI agent system that perform real time predictive analytics and machine le
 
 
 Solution Architecture
+<img width="957" alt="Screenshot 2025-04-05 at 11 49 00" src="https://github.com/user-attachments/assets/1d07a7f6-65c7-48fd-8409-85794b33bf3d" />
 
 Database: Have a database that record all the accident that happen in the past as well as accident that is happen now
 Data Analytic Agent: Provide real time data analytic as traffic data are incoming and then will send analytic report to reporting agent.
