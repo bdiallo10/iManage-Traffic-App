@@ -23,8 +23,7 @@ Predictive Ai Agent: Will receive data from the analytic Ai Agent and build a ma
 Reporting Ai Agent will send report to disaster response user interface.
 Disaster response interface: customer facing application 
 
-
-
 Database
 
 Front-end
+--React Application that is a model friendly and Desktop friendly. App that adapt to all types of screen sizes
